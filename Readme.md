@@ -17,7 +17,9 @@ Loads accounts from the CSV file upon initialization.
 ## Requirements:
 
 Python 3 (tested with 3.x versions)
+
 csv module (included in the standard library)
+
 logging module (included in the standard library)
 ## Installation:
 
